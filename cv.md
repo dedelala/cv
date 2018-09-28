@@ -1,9 +1,3 @@
-# Dede Lamb
-
-ddlala27@gmail.com | 0433 118 193
-
-* * *
-
 ## Profile
 
 10 years in a university working as a system administrator, developer, project manager, low and high
@@ -50,39 +44,80 @@ lines in one game of Tetris.
 
 <div class="pb"></div>
 
+
 ## Employment History
+
+
+### Development Operations Engineer
+
+2017 (June) - Present, MYOB Technology
+
+
+#### Achievements
+
+* Invited to present a Go/DevOps talk at REA Group
+* Invited to deliver a guest lecture explaining devops to masters students
+* Delivered a 2 hour workshop on Go SAM API Gateways to an AWS programming meetup, and internally to MYOB.
+* Winner of three consecutive hackdays and counting
+
+
+#### Responsibilities
+
+* Design and operation of AWS automation fleet
+* Owners of source control and artifact management
+* Provisioning AWS accounts
+* Coaching repo and CI/CD patterns
+
 
 ### IT Consultant
 
 2015 – 2017 (April), Melbourne University Student Union Ltd
 
+
 #### Achievements
 
-* Administered IT infrastructure for a large organization within a university
-* Provided full-stack web developer support for multiple websites
-* Deployed a departmental wiki farm (knowledgebase) integrated with Active Directory
+* Pitched, developed and deployed an organizational knowledgebase
+* Developed scripts to automate backup of LAMP servers on a Windows network
 * Repaired an operations database corrupted by a third party software upgrade
 * Re-kitted a live broadcast internet radio station
-* First responder to network/web security issues
 * Constructed a portable video conferencing system
+
+
+#### Responsibilities
+
+* Administered IT infrastructure for a large organization within a university
+* Oversaw a diverse set of technical projects
+* Provided full-stack web developer support for multiple websites
+* First responder to network/web security issues
 * Supported IT services and the projects division with ongoing projects
 * Offered genial and proficient technical support in person
+
 
 ### Senior AV Technician
 
 2007 – 2015, University of Melbourne Student Union Inc
 
+
 #### Achievements
 
-* Implemented a business software transition for an audio visual hire department
-* Managed live music and audio visual productions across several universities
+* Implemented a business software transition for an AV production and hire department
 * Produced a world-first public demonstration event with Microsoft
 * Onsite production manager for a street festival (5 stages)
-* Onsite technical support for corporate and academic conferences
-* Trained peers and customers in the safe use of audio visual equipment
 * Officially commended for my actions during a fire while working on a public event
+* Stuck a microphone on four of the last five Prime Ministers of Australia
+
+
+#### Responsibilities
+
+* Managed live music and AV productions across several universities
+* Onsite technical support (AV and IT) for corporate and academic conferences
+* Supervised junior technicians onsite
+* Trained peers and customers in the safe use of audio visual equipment
+* Ran an AV production and hire department
+
 
 ## Education
+
 
 ### RMIT
 
@@ -90,11 +125,13 @@ lines in one game of Tetris.
 
 * *Online study full time whilst also working full time, straight high distinctions*
 
+
 ### RMIT
 
 2008 – 2009, Music Industry (Technical Production)
 
 * *Modern sound production, gaining skills in a field I was already working in*
+
 
 ### The University of Melbourne
 
@@ -103,6 +140,3 @@ lines in one game of Tetris.
 * *Attended on full scholarship*
 * Activities: student IT support, tech production, college porter
 
-* * *
-
-end of dede lamb's cv | this document was written in vim using markdown.
