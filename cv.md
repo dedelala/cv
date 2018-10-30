@@ -1,46 +1,64 @@
 ## Profile
 
-10 years in a university working as a system administrator, developer, project manager, low and high
-level technical support on a range of projects with a diversity of stakeholders. A cheerful presence
-in the office with a vast skillset to back it up, I fix problems and I add value. I’m an effective
-communicator in high pressure situations requiring rapid resolution and assurance to stakeholders.
+Strong programmer with good sense of personal style, always willing to dig in,
+considers the machinery.  Creative problem solver in design and implementation,
+easily applies abstract thinking.  Likes to explore new technologies and ways of
+doing things.
 
-I have strong experience in project management and delivery, and I pride myself on stakeholder
-engagement. My work has been used to demonstrate ideal practice, and I will bring my expertise and
-breadth of knowledge to your workplace with dedication. Plus, I once cleared six and a half thousand
-lines in one game of Tetris.
+Understands the complexity of simplicity, well able to spot over-engineering.
+Very results oriented, sets targets and meets them on time.
+
+A confident public speaker who wants to talk to people and share her stories.
+Plus, she once cleared six and a half thousand lines in one game of Tetris.
+
 
 ## Skills
 
-* End-to-end technical project management and delivery
-* Developer with focus on web application and security
-* System administrator in Linux and Windows environments
-* Excellent communication
-* Effective problem solving
 
-## Technologies
+### Go
 
-* Proficient at programming
-    * *Python, Java, Perl, C, Make, Git, Bash, UML, YAML*
-* Web and networking
-    * *PHP, HTML5, CSS3, XML, JavaScript/JQuery, REST, Apache, Nginx, SSL, TCP/IP*
-* Skilled with databases
-    * *MySQL, MS SQL*
-* Computer and network administration
-    * *Linux, Windows, Active Directory, LAMP, MS IIS, Cisco, SDN*
-* Cloud technologies and virtualization
-    * *VMWare, OpenStack, AWS, Linode, Docker*
-* Configuration management
-    * *Ansible, Puppet*
-* Strong application of project methodologies
-    * *agile*
-* Talented at graphics
-    * *OpenGL 4.0, WebGL 1.0, GLSL*
-* Expert in audio visual equipment
-    * *sound systems, projection, AMX/Crestron*
-* Dextrous at the intersection of AV and IT
-    * *presentation systems, telepresence, audio-over-IP, media production tools, learning environments*
-* In-Service Safety Inspection, Electrical Equipment Inspection (test &amp; tag)
+Has been described as "The Unmarshaling Witch". Skilled with the type system,
+generic data manipulations, and the go, struct, json, yaml, toml equivalent
+representations of data tree structures. Implemented custom struct tags to
+decode into struct from arbitrary data sources.
+
+* Command line tools
+* API servers
+* Lambdas
+* AWS SDK manipulation
+* Git and GitHub manipulation
+* Slack integrations
+* Templating
+* CGO
+
+
+### Bash
+
+* Main driver for continuous deployment processes.
+* Generation of dynamic infrastructure templates.
+* Automation of AWS, GitHub and Buildkite
+* Build and release scripts
+* Dynamic build pipelines
+* Exploration of problem domain
+* One-shot bulk processes
+
+
+### AWS
+
+* Cloudformation
+* VPC HA infra
+* Codebuild, EC2, Lambda, SAM
+* ECR, S3, KMS, IAM
+* CloudWatch, SNS
+* Secrets management
+
+
+### Kubernetes
+
+* Creating deployments
+* Running automation
+* Operator development
+
 
 <div class="pb"></div>
 
@@ -55,18 +73,19 @@ lines in one game of Tetris.
 
 #### Achievements
 
-* Invited to present a Go/DevOps talk at REA Group
-* Invited to deliver a guest lecture explaining devops to masters students
+* Technical Lead on a Future Makers project, mentoring a team of graduates.
+* Presented a talk to DevOps Girls and again on request to REA Group, implementing `curl` with Go, from scratch to release in ten minutes.
+* Invited to deliver a guest lecture explaining DevOps to masters students.
 * Delivered a 2 hour workshop on Go SAM API Gateways to an AWS programming meetup, and internally to MYOB.
-* Winner of three consecutive hackdays and counting
+* Winner of three consecutive hackdays.
 
 
 #### Responsibilities
 
-* Design and operation of AWS automation fleet
-* Owners of source control and artifact management
-* Provisioning AWS accounts
-* Coaching repo and CI/CD patterns
+* Design and operation of a distributed automation fleet.
+* Owner of source control and artifact management.
+* Provisioner of AWS accounts.
+* Coach of repo and CI/CD patterns.
 
 
 ### IT Consultant
@@ -91,6 +110,9 @@ lines in one game of Tetris.
 * First responder to network/web security issues
 * Supported IT services and the projects division with ongoing projects
 * Offered genial and proficient technical support in person
+
+
+<div class="pb"></div>
 
 
 ### Senior AV Technician
