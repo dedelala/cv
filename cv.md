@@ -29,7 +29,7 @@ incidents.
 
 ### Senior Software Engineer, 2021 (Feb) - 2024 (Feb), Slack Technologies
 
-#### Maintainer of Slack's primary webserving cache infrastructure.
+#### Maintainer of Slack's primary webserving and cache infrastructure.
 
 - Cache system AZ affinity migration.
 - Cache loadtesting, right-sizing, performance tuning, and cost reduction.
