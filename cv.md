@@ -1,3 +1,6 @@
+A constitution bardette with high charisma and dips into intelligence and
+wisdom.
+
 UX focused platform engineer with strong fundamentals and an eye for
 over-engineering. Results oriented, highly cross-functional, and able to take
 the lead on serious conversations.
@@ -86,25 +89,19 @@ plug-and-play build pipelines and agents.
 - SME for CI/CD, AWS server and serverless infra, Go and shell coding best
 practices.
 - Advised a team of grads on project management and Go programming for their
-first major project. One of whom subsequently joined the team and was a mentee
+first major project. One of whom requested to join my team and was a mentee
 for the remainder of my time at MYOB.
-- Public speaking: Go programming, DevOps, and serverless AWS. Meetups,
-workshops, tech companies, and a university guest lecture.
+- Public speaking: Go programming, DevOps, and serverless AWS. Presented to
+meetups, workshops, tech companies, and a university guest lecture.
 
 
 ### IT Consultant, 2015 – 2017 (Apr), Melbourne University Student Union Ltd
 
-#### Achievements
+#### Achievements and Responsibilities
 
 - Created an organisational knowledgebase
-- Automated backup of LAMP servers
 - Repaired an operations database corrupted by a third party software upgrade
 - Re-kitted a live broadcast internet radio station
-
-
-#### Responsibilities
-
-- Administered IT infrastructure for a large organisation within a university
 - Provided full-stack web developer support for multiple websites
 - First responder to network/web security issues
 - Supported IT services and the projects division with ongoing projects
@@ -119,6 +116,13 @@ subsequent full length talk at Gophercon AU 2023 and 2024.
 `jq` that supports yaml, toml, and go templates. Unchanged for years, rumour has
 it it's still in prod out there somewhere.
 - [github.com/dedelala/cv](https://github.com/dedelala/cv), this!
+
+
+## Talk to Me About
+
+- Cats, sewing, interior design, bagels, color spaces, 1970s disco, classic
+house, Oaxaca, how to roll cables, valid flavours of pastizzi (there's only one,
+it's peas).
 
 
 ## Education
