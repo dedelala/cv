@@ -1,4 +1,4 @@
 
 * * *
 
-end of dede lamb's cv | my lucky number is 57054 do you know why?
+end of Esme Lamb's CV | no AIs were harmed in the production of this document

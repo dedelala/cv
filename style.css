@@ -1,106 +1,89 @@
 <style>
 body {
     margin: auto;
-    padding-right: 1em;
-    padding-left: 1em;
-    max-width: 44em; 
+    padding: 0;
+    max-width: 44em;
     color: black;
     font-family: Helvetica, helvetica, Arial, arial, sans-serif;
-    font-size: 100%;
-    line-height: 140%;
-    color: #333; 
+    font-size: 11pt;
+    line-height: 120%;
+    color: #333;
 }
-pre {
-    border: 1px dotted gray;
-    background-color: #ececec;
-    color: #1111111;
-    padding: 0.5em;
+header {
+    display: none;
 }
 code {
     font-family: monospace;
 }
-h1 a, h2 a, h3 a, h4 a, h5 a { 
+h1 a, h2 a, h3 a, h4 a, h5 a {
     text-decoration: none;
-    color: #000; 
+    color: #000;
 }
-h1, h2, h3, h4, h5 { 
+h1, h2, h3, h4, h5 {
     font-family: Helvetica, helvetica, Arial, arial, sans-serif;
     font-weight: bold;
     color: #000;
 }
 h1 {
-        font-size: 130%;
+    font-size: 20pt;
 }
-
 h2 {
-        font-size: 110%;
+    font-size: 15pt;
 }
-
 h3 {
-        font-size: 95%;
+    font-size: 13pt;
 }
-
 h4 {
-        font-size: 90%;
-        font-style: italic;
+    font-size: 11pt;
+    font-style: italic;
 }
-
 h5 {
-        font-size: 90%;
-        font-style: italic;
+    font-size: 11pt;
+    font-style: italic;
 }
-
 h1.title {
-        font-size: 200%;
-        font-weight: bold;
-        padding-top: 0.2em;
-        padding-bottom: 0.2em;
-        text-align: left;
-        border: none;
+    font-size: 200%;
+    font-weight: bold;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    text-align: left;
+    border: none;
 }
-
-h1, h2, h3, h4, h5, p, ul {
-        margin-top: 0.5em;
-        margin-bottom: 0.5em;
+h1 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
-
+h2, h3, h4, h5 {
+    margin-top: 0.75em;
+    margin-bottom: 0.25em;
+}
+p, ul {
+    margin-top: 0.25em;
+    margin-bottom: 0.5em;
+}
 ul ul {
-        margin-top: 0;
-        list-style: none;
+    margin-top: 0;
+    list-style: none;
 }
-
 hr {
-        border-color: gray;
-        border-style: solid;
-        margin-top: 1em;
-        margin-bottom: 1em;
+    border: none;
+    border-top: 2px solid #0c0040; /* bob ross phthalo blue you're welcome */
+    margin-top: 0.75em;
+    margin-bottom: 0.75em;
 }
-
-h1 + p {
-        font-size: 80%;
+li::marker {
+    color: #0c0040; /* phthalo blue strikes again */
 }
-
-body > p:last-child {
-        font-size: 80%;
-        color: gray;
-        text-align: center;
+body > p:last-of-type, body > p:first-of-type, body > p:first-of-type > a, h1, h2, h3, h4 {
+    color: #021e44; /* bob ross prussian blue in the houuuuse */
 }
-
 dt code {
-        font-weight: bold;
+    font-weight: bold;
 }
 dd p {
-        margin-top: 0;
+    margin-top: 0;
 }
-
 div.pb {
-        page-break-after: always;
+    page-break-after: always;
 }
-
-#footer {
-        padding-top: 1em;
-        font-size: 70%;
-        color: gray;
-        text-align: center;
-        }
 </style>
